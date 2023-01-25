@@ -1,0 +1,47 @@
+Stefan
+
+EMAIL STEFAN : stefan@mycourseresource.com
+
+Files are at GitHub:
+https://github.com/mycourseresource/MCR93
+This is a private repository and you will need
+to create an free account and share your
+account name with me.
+
+When in the college, always work in incognito.
+
+https://eu.pythonanywhere.com/
+==============================
+
+Python is a scripting language, and not a
+compiled language. C++ would be a compiled
+language.
+
+Scripting languages need an interpreter to
+translate code to instructions that a 
+processor understands.
+
+Compiled languages compile our code into a
+special file that a processor can read and
+understand.
+
+History: Why is Python called Python?
+Guido van Rossum is a big Monty Python fan.
+
+When naming files or anything else in Python
+never ever use blank spaces (Stefan says).
+
+When in need of help, google Python + ??? and
+click the link from w3schools.com.
+
+What is a function?
+What is a argument?
+What is "Hello World" (in single or double)
+String / int / float
+
+
+
+Your name?
+What computer do you use at home Window/Apple?
+Why you want to learn Python?
+Do you have any previous Python experience?
